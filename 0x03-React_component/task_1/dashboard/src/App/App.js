@@ -45,7 +45,7 @@ class App extends React.Component {
   }
 
   render () {
-    return(  
+    return(
     <>
       <Notifications listNotifications={listNotifications}/>
       <div className="App">
